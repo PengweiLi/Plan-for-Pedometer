@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">跑步计划</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="steps">Steps</string>
+    <string name="average">Average</string>
+    <string name="total">Total</string>
+    <string name="action_Statistics">一周报告</string>
+    <string name="setting_message">制定强制跑步计划</string>
+    <string name="lock_message">请完成您的跑步计划</string>
+
+</resources>
